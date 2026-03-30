@@ -1,0 +1,8 @@
+{
+  "name": "Multimodal Fusion Lab",
+  "description": "A technical workbench for Vision-Language-Audio alignment and multimodal generation using Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
